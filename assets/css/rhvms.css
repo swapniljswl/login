@@ -1,0 +1,77 @@
+
+.hide {
+display:none;
+}
+
+.fset {
+	border:1px solid;
+	margin-bottom:0;
+	padding:0 10px;
+}
+
+.legend {
+	width : inherit;
+	border-bottom : none;
+	font-size : small;
+}
+
+.rm_rt_offset {
+	padding-right: 0;
+}
+
+.no-gutter {
+    padding-right:0;
+    padding-left:0;
+    padding-top:0;
+    padding-bottom:0;
+}
+
+.btn-circle {
+  width: 15px;
+  height: 15px;
+  text-align: center;
+  padding: 6px 0;
+  font-size: 12px;
+  line-height: 1.428571429;
+  border-radius: 15px;
+}
+
+.btn-occupied
+{
+color: #fff;
+background-color: #dc3545;
+border-color: #dc3545;
+}
+
+.btn-semi-occupied
+{
+color: #fff;
+background-color: #f8ed06;
+border-color: #f8ed06;
+}
+
+
+.small-control{
+  font-size:.8em;
+  width: 120px;
+   height: 50px;
+}
+
+.table-condensed>thead>tr>th, 
+.table-condensed>tbody>tr>th, 
+.table-condensed>tfoot>tr>th, 
+.table-condensed>thead>tr>td, 
+.table-condensed>tbody>tr>td, 
+.table-condensed>tfoot>tr>td{
+    padding: 8px;
+}
+
+input[type=number]::-webkit-inner-spin-button, 
+input[type=number]::-webkit-outer-spin-button { 
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    margin: 0; 
+}
+
+
