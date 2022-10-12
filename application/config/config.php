@@ -24,7 +24,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 |
 */
 // $config['base_url'] = '';
-$config['base_url'] = 'http://10.255.233.46/login/'; //audit
+$config['base_url'] = 'http://localhost/login/'; //audit
 
 /*
 |--------------------------------------------------------------------------
