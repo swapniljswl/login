@@ -74,10 +74,10 @@ $active_group = 'default';
 $query_builder = TRUE;
 
 $db['default'] = array(
-	'dsn'	=> 'pgsql:host=10.255.233.46;dbname=postgres',
-	'hostname' => '10.255.233.46',
+	'dsn'	=> 'pgsql:host=localhost;dbname=postgres',
+	'hostname' => 'localhost',
 	'username' => 'postgres',
-	'password' => 'pg105$',
+	'password' => '1234',
 	'database' => '',
 	'dbdriver' => 'pdo',
 	'dbprefix' => '',
